@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "cmsc508.com",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "cmsc508",
+            "database": "202310_users_prestong",
+            "username": "prestong",
+            "password": "Shout4_prestong_GOME"
+        }
+    ]
+}
